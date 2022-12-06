@@ -1,0 +1,15 @@
+﻿  Building 'WfpDrvFirewall' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Callout.c
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpsCalloutRegister3 в функции register_example_callout.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpsCalloutUnregisterById0 в функции DriverEntry.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmEngineOpen0 в функции DriverEntry.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmEngineClose0 в функции DriverUnload.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmTransactionBegin0 в функции DriverEntry.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmTransactionCommit0 в функции DriverEntry.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmTransactionAbort0 в функции DriverEntry.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmSubLayerAdd0 в функции register_example_sublayer.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmCalloutAdd0 в функции register_example_callout.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmFilterAdd0 в функции register_example_filter.
+WFPDriver.obj : error LNK2019: ссылка на неразрешенный внешний символ FwpmFilterDeleteById0 в функции DriverDispatch.
+WFPDriver.obj : error LNK2001: неразрешенный внешний символ SDDL_DEVOBJ_SYS_ALL_ADM_ALL.
+C:\Users\Dim\source\repos\WfpDrvFirewall\x64\Release\WfpDrvFirewall.sys : fatal error LNK1120: неразрешенных внешних элементов: 12

@@ -1,0 +1,10 @@
+﻿  Building 'WfpDrvFirewall' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Callout.c
+  WFPDriver.c
+  Создание кода...
+  WfpDrvFirewall.vcxproj -> C:\Users\Dim\source\repos\WfpDrvFirewall\x64\Debug\WfpDrvFirewall.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Dim\source\repos\WfpDrvFirewall\x64\Debug\WfpDrvFirewall.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

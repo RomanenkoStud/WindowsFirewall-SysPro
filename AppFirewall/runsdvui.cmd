@@ -1,0 +1,2 @@
+cd /d "C:\Users\Dim\source\repos\AppFirewall" &msbuild "AppFirewall.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\Dim\source\repos\DrvFirewall" 
+exit %errorlevel% 
