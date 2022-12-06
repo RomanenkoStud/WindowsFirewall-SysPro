@@ -2,7 +2,7 @@
 
 Public functions for the ExampleCallout.
 
-Author: Jared Wright - 2015
+Author: Romanenko
 */
 
 #ifndef ExampelCallout_H

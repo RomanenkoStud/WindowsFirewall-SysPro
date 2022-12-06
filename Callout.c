@@ -6,7 +6,7 @@ layer. This callout's ClassifyFn function prints the packets
 TCP 4-tuple, and blocks the packet if it is bound for remote
 port 1234. This Callout's NotifyFn function prints a message.
 
-Author: Jared Wright - 2015
+Author: Romanenko
 */
 
 #include "Callout.h"

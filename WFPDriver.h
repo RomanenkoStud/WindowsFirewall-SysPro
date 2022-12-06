@@ -2,7 +2,7 @@
 
 Imports needed for the Windows Filtering Platform
 
-Author: Jared Wright - 2015
+Author: Romanenko
 */
 
 #ifndef WFPDriver_H

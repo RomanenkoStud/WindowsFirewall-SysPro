@@ -4,7 +4,7 @@ The WFPDriver is intended to demonstrate how to set-up a
 driver that utilizes the Windows Filtering Platform to register
 a Callout and Filter to the Base Filtering Engine.
 
-Author: Jared Wright - 2015
+Author: Romanenko 
 */
 
 #include "WFPDriver.h"
