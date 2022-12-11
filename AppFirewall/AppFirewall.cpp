@@ -181,6 +181,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
                 if (ipDrvFirewall.WriteIo(CLEAR_FILTER, NULL, 0) != DRV_ERROR_IO)
                 {
                     MessageBoxW(hWnd, L"Rules list is clear", NULL, MB_OK);
+                    SendMessage(listOfRules, LVM_DELETEALLITEMS, 0, 0);
                 }
                 break;
             case IDB_INSTALL:
