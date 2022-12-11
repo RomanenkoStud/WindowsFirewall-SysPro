@@ -1,1 +1,0 @@
-C:\Users\Dim\source\repos\WfpDrvFirewall\x64\Debug\WfpDrvFirewall.sys
