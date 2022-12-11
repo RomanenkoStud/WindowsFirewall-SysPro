@@ -11,7 +11,7 @@
 #include <atlstr.h>
 
 #include "UDriver.h"
-#include "..\WfpDrvFirewall\UserHeader.h"
+#include "../UserHeader.h"
 
 
 #define ID_LIST 106

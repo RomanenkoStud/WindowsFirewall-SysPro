@@ -1,0 +1,10 @@
+﻿  AppFirewall.cpp
+C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\AppFirewall\AppFirewall.h(3,1): warning C4005: _WIN32_WINNT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\SDKDDKVer.h(224): message : см. предыдущее определение "_WIN32_WINNT"
+C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\AppFirewall\AppFirewall.cpp(274,24): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\AppFirewall\AppFirewall.cpp(282,23): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\AppFirewall\AppFirewall.cpp(301,18): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\AppFirewall\AppFirewall.cpp(428,14): warning C4101: ch: неиспользованная локальная переменная
+  UDriver.cpp
+  Создание кода...
+  AppFirewall.vcxproj -> C:\Users\Dim\OneDrive - Kharkov National University of Radioelectronics\Документи\GitHub\SysPro_WindowsFirewall\x64\Debug\AppFirewall.exe
